@@ -1,0 +1,2 @@
+print("Add two number you want")
+print(int(input())+ int(input()))
